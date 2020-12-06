@@ -18,8 +18,7 @@ Sensores envolvidos :
   }
 
 3 - Sensor de temperatura {
-  Será um servente que ira receber dados do ambiente (usuário) e verificar se cumpre determinada condição para combinar com o sensor de movimento
-  e conseguir detectar se oque o disparou foi uma pessoa ou não.
+  Será um servente que ira receber dados do ambiente (usuário) e enviar para o sensor de humidade para testar se o fogger deve ser ligado ou não .
   Serviço estará rodando no localhost, passando pela porta 5557
 }
 
