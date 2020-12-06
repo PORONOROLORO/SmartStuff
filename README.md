@@ -14,6 +14,7 @@ Benefícios {
 }
 
 Vantagens e Desvantagens {
+
 	Vantagem = Automação do processo de acionamento do Fogger;
 	
 	Desvantagem = Custo de instalação do sistema;
