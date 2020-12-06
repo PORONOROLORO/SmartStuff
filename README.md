@@ -3,9 +3,8 @@ Projeto para estufa inteligente com uso de sensores
 
 Sensores envolvidos :
   * Sensor de umidade para iniciar um fogger (manutenção da umidade do local)
-  * Sensor de temperatura (apita acima de x graus)
-  * Sensor para detecção de movimento (antifurto)
-  * Sensor para tomadas ou saídas elétricas, que avisam possibilidade de curto ou início de curto
+  * Sensor de temperatura (apita acima de x graus)  
+  * Interruptor inteligente para tomadas ou saídas elétricas
 
 1 - Sensor de humidade {
   Será um servente que irá receber os dados do ambiente (usuário) e irá verificar se cumpre determinada condição para acionar o fogger.
